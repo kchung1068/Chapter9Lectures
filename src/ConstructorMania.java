@@ -5,7 +5,8 @@ public class ConstructorMania {
    Time olegsLunch = new Time(ryanslunch); //Copy Constructor
 //
     Time brunch = new Time();
-
+    Time liner = new Time(4,30,0);
+        System.out.println(brunch);
 
     }
 
