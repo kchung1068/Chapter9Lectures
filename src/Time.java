@@ -35,7 +35,7 @@ public class Time {
 //        myTime.add(1,minute);
         myTime = new ArrayList<Integer>();
         setMyTime(hour,minute,second);
-        System.out.println("OIK");
+//        System.out.println("OIK");
     }
     //Argument Constructor
     public Time(Time object) {
